@@ -1,0 +1,18 @@
+
+{
+  "name": "荔枝鐘工作計時器",
+  "short_name": "荔枝鐘",
+  "description": "一個簡潔可愛的荔枝主題番茄鐘計時器",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff5f5",
+  "theme_color": "#ef4444",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2907/2907150.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
